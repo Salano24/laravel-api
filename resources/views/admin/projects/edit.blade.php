@@ -66,7 +66,7 @@
         {{-- SEPARATORE --}}
 
             <div class="mb-3">
-                <label for="technologies" class="form-label">City</label>
+                <label for="technologies" class="form-label">Technologies</label>
                 <select multiple class="form-select form-select-lg" name="technologies[]" id="technologies">
                     <option value="" disabled>Select one</option>
 
