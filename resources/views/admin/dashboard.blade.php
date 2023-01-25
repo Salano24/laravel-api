@@ -15,7 +15,6 @@
                     @endif
 
                    <h3 class="ms-5">{{ __('You are logged in!') }}</h3> 
-                    <div class="image "><img class="" src="{{ Vite::asset('resources/img/pngimg.com - spongebob_PNG16.png') }}" alt="User photo"></div>
                 </div>
             </div>
         </div>
